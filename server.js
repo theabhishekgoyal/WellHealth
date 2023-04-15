@@ -1,7 +1,8 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
-
+require('dotenv').config();
+const apiKey = process.env.PORT;
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: true })); // urlencoded allows to access form data
@@ -9,7 +10,7 @@ app.use(express.static(__dirname+"/public"));
 // Using mongodb atlas cloud database
 mongoose
   .connect(
-    "mongodb+srv://abhishek:UyClZtu0tcMMENkE@atlascluster.thlvtaa.mongodb.net/?retryWrites=true&w=majority"
+    apiKey
   )
   .then(() => console.log("Connected to MongoDB Database"))
   .catch((err) => console.log(err));
@@ -53,5 +54,5 @@ app.post("/appointment", function (req, res) {
 });
 
 app.listen(3000, function () {
-  console.log("Server started at Port 3000");
+  console.log(`Server started at Port 3000`);
 });
