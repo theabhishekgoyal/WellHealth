@@ -30,15 +30,18 @@ WellHelath is a medical specially designed for clinics, hospitals, doctor consul
 * **Blogs Details**
 * **Contact**
 
-License
+## License
+
 Copyright (c) 2023 - Present, Designed & Developed by GFG Team 
 Code License: Released under the MIT license.
 Image license: The images are only for demonstration purposes. They have their license; we don't have permission to share those images.
-Resources
+
+## Resources
+
 Some third-party plugins that we used to build this template. Please check their license.
-•	Bootstrap v4.5: https://getbootstrap.com/docs/4.5/getting-started/introduction/
-•	Jquery: https://jquery.com/download/
-•	Google Fonts: http://fonts.google.com/
-•	Icofont 1.0.1: https://icofont.com/
-•	Shuffle: https://vestride.github.io/Shuffle/
-•	Slick: https://kenwheeler.github.io/slick/
+*	Bootstrap v4.5: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+*	Jquery: https://jquery.com/download/
+*	Google Fonts: http://fonts.google.com/
+*	Icofont 1.0.1: https://icofont.com/
+*	Shuffle: https://vestride.github.io/Shuffle/
+*	Slick: https://kenwheeler.github.io/slick/
