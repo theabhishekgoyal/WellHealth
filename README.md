@@ -12,8 +12,7 @@ WellHelath is a medical specially designed for clinics, hospitals, doctor consul
 | [![](screenshots/9.jpg)](https://demo.themefisher.com/novena/blog-sidebar.html) | [![](screenshots/10.jpg)](https://demo.themefisher.com/novena/blog-single.html) | [![](screenshots/11.jpg)](https://demo.themefisher.com/novena/contact.html) |
 | **Blogs**  | **Blogs Details**  | **Contact** |
 
-
-![appoinment](https://user-images.githubusercontent.com/96344136/232247075-52dc27da-0263-41bd-ba38-8e1bf7fea99b.jpg)
+<img src="https://user-images.githubusercontent.com/96344136/232247075-52dc27da-0263-41bd-ba38-8e1bf7fea99b.jpg" width=50% height=50%>
 ![blogs](https://user-images.githubusercontent.com/96344136/232247076-93c18dd0-6f64-4c5a-b4c0-ef8ad458a83d.jpg)
 ![blogs-details](https://user-images.githubusercontent.com/96344136/232247078-1528ff74-7f32-4dfc-bac0-04382538eeee.jpg)
 ![contact](https://user-images.githubusercontent.com/96344136/232247081-cbe892a5-5f3f-4b3c-ac4c-7bc417da27e2.jpg)
