@@ -1,5 +1,5 @@
 # WellHeath by GFG Team
-WellHelath is a medical specially designed for clinics, hospitals, doctor consultation centres, surgery centres, medical laboratories, pharmacies etc. We have carefully crafted each & every component to ensure that a clean and modern design is carried through.
+WellHealth is a medical application that was created specifically for use in hospitals, clinics, consultations with doctors , operation centres medical labs, pharmacies, etc. We have given meticulous consideration to each and every component to guarantee that the sleek, contemporary style is maintained.
 
 #  Site Pages 
 
