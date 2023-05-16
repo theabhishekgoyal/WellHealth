@@ -39,7 +39,6 @@ Some third-party plugins that we used to build this template. Please check their
 *	Google Fonts: http://fonts.google.com/
 *	Icofont 1.0.1: https://icofont.com/
 *	Shuffle: https://vestride.github.io/Shuffle/
-*	Slick: https://kenwheeler.github.io/slick/
 
 ## Team members
 * Abhishek Goyal
