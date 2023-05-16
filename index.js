@@ -6,7 +6,7 @@ const PORT = process.env.PORT ||3000
 const mongoos_key = process.env.MONGOOSE_KEY;
 const app = express();
 
-app.use(bodyParser.urlencoded({ extended: true })); // urlencoded allows to access form data
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname+"/public"));
 // Using mongodb atlas cloud database
 mongoose
