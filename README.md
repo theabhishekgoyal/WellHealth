@@ -30,11 +30,6 @@ WellHealth is a medical application that was created specifically for use in hos
 * **Blogs Details**
 * **Contact**
 
-## License
-
-Copyright (c) 2023 - Present, Designed & Developed by GFG Team 
-Code License: Released under the MIT license.
-Image license: The images are only for demonstration purposes. They have their license; we don't have permission to share those images.
 
 ## Resources
 
