@@ -17,5 +17,13 @@
     "mongodb": "^5.5.0",
     "mongoose": "^7.2.0",
     "node-modules": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabhishekgoyal/WellHealth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theabhishekgoyal/WellHealth/issues"
+  },
+  "homepage": "https://github.com/theabhishekgoyal/WellHealth#readme"
 }
