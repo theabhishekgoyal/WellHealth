@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 require('dotenv').config();
 const PORT = process.env.PORT ||3000
-const mongoos_key = process.env.MONGOOSE_KEY;
+
 const app = express();
 
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -11,7 +11,7 @@ app.use(express.static(__dirname+"/public"));
 // Using mongodb atlas cloud database
 mongoose
   .connect(
-    mongoos_key
+    "mongodb+srv://abhishek:UyClZtu0tcMMENkE@atlascluster.thlvtaa.mongodb.net/?retryWrites=true&w=majority"
   )
   .then(() => console.log("Connected to MongoDB Database"))
   .catch((err) => console.log(err));

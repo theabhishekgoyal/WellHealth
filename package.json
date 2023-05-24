@@ -1,7 +1,7 @@
 {
   "name": "theme",
   "version": "1.0.0",
-  "description": "",
+  "description": "WellHealth is a medical application that was created specifically for use in hospitals, clinics, consultations with doctors , operation centres medical labs, pharmacies, etc. We have given meticulous consideration to each and every component to guarantee that the sleek, contemporary style is maintained.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,6 +14,8 @@
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^7.0.3"
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.0",
+    "node-modules": "^1.0.1"
   }
 }
